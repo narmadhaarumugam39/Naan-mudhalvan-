@@ -94,7 +94,7 @@
 <body>
     <header>
         <div class="header-content">
-            <!-- Add your profile picture here -->
+            <!-- https://drive.google.com/file/d/1xeEmGly7RIHj12zbTeaPelCwtzbk0J01/view?usp=drivesdk-->
             <img src="image.jpg"   
 Profile picture class="profile-picture">
             <h1>Narmadha.A</h1>
@@ -162,7 +162,7 @@ Profile picture class="profile-picture">
        <div class="section-content">
             <h2>Resume</h2>
             <u1>
-            <li><a href="Oviyaa.M Resume.pdf">Digital Portal</
+            <li><a href="https://drive.google.com/file/d/1xhaBd1OePhVZ_9kEpKs5SiwV6C3k53YM/view?usp=drivesdk">Digital Portal</
 a></li
              class="download-button">Download CV</a>
         </center>
@@ -171,7 +171,7 @@ a></li
     </section>
 
     <footer>
-        <p>&copy; 2025 Oviyaa.M</p>
+        <p>&copy; 2025 Narmadha.A</p>
     </footer>
 
     <script>
